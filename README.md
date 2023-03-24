@@ -1,2 +1,2 @@
 # wedesign
-This GitHub repository contains a graphic design project that showcases my design skills and creativity. 
+This GitHub repository contains a graphic design project that showcases my design skills and creativity. The project includes various design elements such as typography, color palettes, and layout, and demonstrates my ability to create visually appealing and effective designs. The repository also includes source files, such as Adobe Photoshop or Illustrator files, which allow other designers to explore and learn from my design process. By sharing this project on GitHub, I hope to receive feedback and improve my design skills while also inspiring others in the design community.
